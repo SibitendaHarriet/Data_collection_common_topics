@@ -1,4 +1,4 @@
-# Social Media Topic Identification and Classification for Africa
+# Extracting Semantic Topics about Development in Africa from Social Media
 
 ## Abstract
 
